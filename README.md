@@ -12,6 +12,8 @@ Bu uygulamayla neler yapabilirsiniz?
 - Yönetici panelinden kullanıcıları, duyuruları, ödemeleri ve arızaları hızlıca yönetirsiniz.
 
 Kısacası; iletişim kopukluklarını azaltan, ödemeleri düzenli hale getiren ve apartman gündemini şeffaflaştıran bir çözüm.
+
+###Ekran Görüntüleri:
 <img width="1918" height="1079" alt="Ekran görüntüsü 2025-09-26 213844" src="https://github.com/user-attachments/assets/caec291a-9826-44d2-9099-19b6d254256d" />
 
 <img width="1842" height="937" alt="Ekran görüntüsü 2025-09-26 214926" src="https://github.com/user-attachments/assets/117ae57b-7e09-4758-a586-1cf44025f52b" />
