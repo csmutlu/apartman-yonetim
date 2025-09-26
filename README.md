@@ -12,105 +12,24 @@ Bu uygulamayla neler yapabilirsiniz?
 - Yönetici panelinden kullanıcıları, duyuruları, ödemeleri ve arızaları hızlıca yönetirsiniz.
 
 Kısacası; iletişim kopukluklarını azaltan, ödemeleri düzenli hale getiren ve apartman gündemini şeffaflaştıran bir çözüm.
+<img width="1918" height="1079" alt="Ekran görüntüsü 2025-09-26 213844" src="https://github.com/user-attachments/assets/caec291a-9826-44d2-9099-19b6d254256d" />
 
----
+<img width="1842" height="937" alt="Ekran görüntüsü 2025-09-26 214926" src="https://github.com/user-attachments/assets/117ae57b-7e09-4758-a586-1cf44025f52b" />
 
-## Nasıl Kurulur?
+<img width="1907" height="1076" alt="Ekran görüntüsü 2025-09-26 213439" src="https://github.com/user-attachments/assets/d86cd2ca-72ac-433a-9b85-e79860153378" />
 
-1. Bu depoyu bilgisayarınıza alın veya klonlayın.
-2. Ön yüzü başlatın:
+<img width="1902" height="1074" alt="Ekran görüntüsü 2025-09-26 213101" src="https://github.com/user-attachments/assets/b8c3823c-6b02-4702-8016-c366d3525b0a" />
 
-```pwsh
-cd frontend
-# Apartman Yönetim Uygulaması
+<img width="1895" height="1061" alt="Ekran görüntüsü 2025-09-26 213137" src="https://github.com/user-attachments/assets/a9b88041-86db-4bfc-a393-edf14adfb639" />
 
-Apartman ve site yaşamını düzenli, şeffaf ve hızlı hale getiren bir çözüm. Hem yöneticiye hem de sakinlere günlük ihtiyaçları kolaylaştıran pratik bir panel sunar.
+<img width="1898" height="1068" alt="Ekran görüntüsü 2025-09-26 213158" src="https://github.com/user-attachments/assets/b22591e4-ee9f-4802-b8ff-f809fe4e747b" />
 
-## Bu uygulama neyi çözer?
+<img width="1903" height="1079" alt="Ekran görüntüsü 2025-09-26 213205" src="https://github.com/user-attachments/assets/e0349235-278b-4ba9-aa69-15515a902c7a" />
 
-- Aidat ve diğer ödemelerin “takip, hatırlatma ve kayıt” sürecini tek bir yerde toplar.
-- Duyuruların kaybolup gitmesini önler; önemli duyurularda bildirim gönderir.
-- Arıza/talep süreçlerini görünür kılar; her adımda bilgilendirme yapar.
-- Gelir–giderleri anlaşılır grafiklerle gösterir; dönemsel kıyas yapmayı kolaylaştırır.
+<img width="1901" height="1074" alt="Ekran görüntüsü 2025-09-26 213220" src="https://github.com/user-attachments/assets/b759cc69-fe80-41c8-8ebf-924363b2536b" />
 
----
+<img width="1902" height="1074" alt="Ekran görüntüsü 2025-09-26 213247" src="https://github.com/user-attachments/assets/77a03231-c09d-47f0-bb25-31b3ccac2137" />
 
-## Kullanıcı (Sakin) Deneyimi
+<img width="1902" height="1073" alt="Ekran görüntüsü 2025-09-26 213404" src="https://github.com/user-attachments/assets/d4534ba4-4fe1-407e-b62a-057055b36b3d" />
 
-- Bildirimli yaşam: Yeni bir ödeme talebi, önemli bir duyuru veya arıza durum değişikliği olduğunda tarayıcınıza bildirim gelir. “Güncel kaldım mı?” derdi biter.
-- Aidat ve Ödemeler: Her ayın 10’unda aidatlar otomatik olarak oluşturulur. “Bu ay açıldı mı?” sorusu tarih olur; siz uygulamada güncel borçlarınızı görürsünüz.
-- Ödeme Geçmişi: Yaptığınız ödemeleri, açıklamaları ve tarihleri tek bakışta inceleyebilirsiniz.
-- Duyurular: Yönetimin yayınladığı duyurulara anında ulaşırsınız; süresi dolanlar otomatik pasifleşir, liste daima temiz kalır.
-- Arıza/Talep: “Asansör çalışmıyor” gibi bir durum mu var? Talep oluşturur, süreç ilerledikçe (Beklemede → İşleme Alındı → Tamamlandı) bildirim alırsınız.
-
-## Yönetici Deneyimi
-
-- Ana Sayfa Özeti: Kasa durumu, toplam gelir–gider, aktif duyuru sayısı, bekleyen arıza, ödenmemiş borç gibi kritik metrikleri tek ekranda görürsünüz.
-- Kullanıcı Yönetimi: Sakin ekleme/düzenleme, daire bilgileri ve erişim yönetimi.
-- Ödeme İşlemleri: Tek tek veya toplu ödeme talepleri oluşturursunuz. Ödeme onaylandığında sistem ilgili kişiye bildirim gönderir.
-- Otomatik Aidat: Her ayın 10’unda sistem sizin yerinize o ayın aidat taleplerini oluşturur. Unutma yok, ekstra iş yok.
-- Giderler: Aylık/kalem bazlı giderleri girersiniz. Uygulama bunları grafiklere taşır; “Nereye ne harcandı?” sorusu netleşir.
-- Raporlar ve Grafikler: Dönem, kategori veya daire temelinde gelir–gideri görselleştirir. Toplantıya sunulacak veri her zaman elinizin altında.
-- Duyurular: Önemli konuları hızla yayınlar, gerekiyorsa son kullanma tarihi verirsiniz; süresi dolunca otomatik pasif olur.
-- Arıza Yönetimi: Talepleri sıraya alır, durumlarını güncellersiniz; ilgili sakin her değişiklikte bilgilendirilir.
-
-## Tipik Akışlar
-
-- Aidat Dönemi: 10’unda sistem aidatları açar → kullanıcıların ekranına ve tarayıcısına bildirim düşer → ödemeler tamamlandıkça “onaylandı” bildirimi gider.
-- Arıza Bildirimi: Sakin talep oluşturur → yönetici “işleme alındı” der → sorun çözüldüğünde “tamamlandı” bilgisi ve bildirim gider.
-- Duyuru: Yönetim yeni duyuru yayınlar → herkes anında görür → tarihi geçtiğinde otomatik pasifleşir.
-
----
-
-## Ekran Görüntüleri
-
-Not: Görsellerin `frontend/public/` klasöründe bulunması gerekir. Dosya adları farklıysa aşağıdaki yolları kendi dosya adlarınıza göre güncelleyebilirsiniz.
-
-1. Yönetici Paneli – Kasa Durumu ve Özet
-
-  ![Yönetici Paneli – Kasa Durumu](frontend/public/admin-dashboard.png)
-
-2. Kullanıcılar Yönetimi
-
-  ![Kullanıcılar Yönetimi](frontend/public/users.png)
-
-3. Ödeme İşlemleri (Talep Oluşturma)
-
-  ![Ödeme İşlemleri](frontend/public/payments.png)
-
-4. Ödeme Geçmişi
-
-  ![Ödeme Geçmişi](frontend/public/payment-history.png)
-
-5. Raporlar (Gelir–Gider Grafikleri)
-
-  ![Raporlar – Grafikler](frontend/public/reports.png)
-
-6. Duyurular
-
-  ![Duyurular](frontend/public/announcements.png)
-
-7. Giderler
-
-  ![Giderler](frontend/public/expenses.png)
-
-8. Arıza Yönetimi
-
-  ![Arıza Yönetimi](frontend/public/issues.png)
-
-9. Kullanıcı Ana Sayfa
-
-  ![Kullanıcı Ana Sayfa](frontend/public/user-home.png)
-
-10. Kullanıcı Ödemeler
-
-  ![Kullanıcı Ödemeler](frontend/public/user-payments.png)
-
-11. Kullanıcı Duyurular
-
-  ![Kullanıcı Duyurular](frontend/public/user-announcements.png)
-
----
-
-Projeyi incelemek ve geri bildirim vermek için: https://github.com/csmutlu/apartman-yonetim
-```
+<img width="1898" height="1075" alt="Ekran görüntüsü 2025-09-26 213411" src="https://github.com/user-attachments/assets/902606fd-35bc-4360-af50-c5e4fbcd9bc4" />
