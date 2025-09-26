@@ -1,0 +1,8 @@
+[
+  {
+    "origin": ["http://localhost:5173", "https://apartman-yonetim-11ff2.web.app", "https://apartman-yonetim-11ff2.firebaseapp.com"],
+    "method": ["GET", "HEAD", "PUT", "POST", "DELETE", "OPTIONS"],
+    "responseHeader": ["Content-Type", "Content-Length", "Content-Range", "Content-Encoding", "Content-Disposition", "Cache-Control", "Access-Control-Allow-Origin", "Authorization", "ETag"],
+    "maxAgeSeconds": 3600
+  }
+]
